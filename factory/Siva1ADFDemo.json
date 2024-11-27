@@ -1,0 +1,9 @@
+{
+	"name": "Siva1ADFDemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7fbe2f1e-a4ad-4049-a1c8-fa301e9a9a8b",
+		"tenantId": "146758eb-480e-465b-b6fa-71bb28edf774"
+	}
+}
